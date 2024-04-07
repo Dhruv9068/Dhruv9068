@@ -6,7 +6,7 @@
 <h3 align="center">A passionate Software Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img width="100" height="100" src="https://komarev.com/ghpvc/?username=dhruv9068&label=Profile%20views&color=0e75b6&style=flat" alt="dhruv9068" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruv9068&label=Profile%20views&color=0e75b6&style=flat" alt="dhruv9068" /> </p>
 
 - 👨‍💻 My Portfolio: [https://dhruvportfolio.dorik.io/](https://dhruvportfolio.dorik.io/)
 
