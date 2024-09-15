@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruv9068&label=Profile%20views&color=0e75b6&style=flat" alt="dhruv9068" /> </p>
 
-- 👨‍💻 My Portfolio: [https://dhruvportfolio.dorik.io/](https://dhruvportfolio.dorik.io/)
+- 👨‍💻 My Portfolio: [https://dhruv.gwdigital.xyz/](https://dhruv.gwdigital.xyz/)
 
 - 📫 How to reach me **dhruvchaturvedi999@gmail.com**
 
