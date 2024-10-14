@@ -12,13 +12,13 @@
 - 📫 How to reach me **dhruvchaturvedi999@gmail.com**
 
 
-### 🎓 Education:
+## 🎓 Education:
 
 **GL Bajaj Group Of Institutions**, Mathura, Uttar Pradesh  
 **Bachelor of Technology in Computer Science Engineering**  
 _Aug 2021 – Aug 2025_
 
----
+
 
 ## 🛠 Tech Stack
 
