@@ -6,7 +6,7 @@
 - 👨🏽‍💻 I'm on track for learning more about development, automation, data science, and cloud technologies.
 - 🥅 2024 Goals: Contribute to Open Source projects and enhance my skills in LoRaWAN and warehouse automation.
 - 💬 Brainstorm with me over web development, AI/ML, data structures, algorithms, distributed systems, and automation.
-- 🎓 Studied at [Your University or Institute] (if applicable).
+
 
 ## 🛠 Tech Stack
 
@@ -42,15 +42,18 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvchaturvedi17&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvchaturvedi17&layout=compact&hide_border=true&theme=transparent&size_weight=0.5&count_weight=0.5&langs_count=10&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dhruv9068&show_icons=true&locale=en" alt="dhruv9068"" />
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv9068&" alt="dhruv9068" />
 </div>
 
 ## 🤝🏻 Connect with Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/dhruvchaturvedi17"><img alt="LinkedIn" align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:dhruvchaturvedi17@gmail.com"><img alt="Gmail" align="center" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/dhruvinsights"><img alt="LinkedIn" align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:dhruvchaturvedi999@gmail.com"><img alt="Gmail" align="center" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/@dhruvchaturvedi4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@dhruvchaturvedi4" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/dhruv_chaturvedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhruv_chaturvedi" height="30" width="40" /></a>
+  <a href="https://discord.gg/dhruvv_32140" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dhruvv_32140" height="30" width="40" /></a>
 </div>
 
 [![Profile Views](https://visitcount.itsvg.in/api?id=dhruvchaturvedi17&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
