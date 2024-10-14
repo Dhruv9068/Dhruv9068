@@ -56,4 +56,9 @@
   <a href="https://discord.gg/dhruvv_32140" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dhruvv_32140" height="30" width="40" /></a>
 </div>
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=dhruvchaturvedi17&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruv9068&show_icons=true&locale=en&layout=compact" alt="dhruv9068" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruv9068&show_icons=true&locale=en" alt="dhruv9068" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv9068&" alt="dhruv9068" /></p>
+
