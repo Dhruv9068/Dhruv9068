@@ -7,6 +7,18 @@
 - 🥅 2024 Goals: Contribute to Open Source projects and enhance my skills in LoRaWAN and warehouse automation.
 - 💬 Brainstorm with me over web development, AI/ML, data structures, algorithms, distributed systems, and automation.
 
+- 👨‍💻 My Portfolio: [https://dhruv.gwdigital.xyz/](https://dhruv.gwdigital.xyz/)
+
+- 📫 How to reach me **dhruvchaturvedi999@gmail.com**
+
+
+### 🎓 Education:
+
+**GL Bajaj Group Of Institutions**, Mathura, Uttar Pradesh  
+**Bachelor of Technology in Computer Science Engineering**  
+_Aug 2021 – Aug 2025_
+
+---
 
 ## 🛠 Tech Stack
 
