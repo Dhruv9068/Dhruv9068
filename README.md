@@ -1,15 +1,28 @@
 # Hey👋, I'm Dhruv Chaturvedi
 
-## 👨🏻‍💻 About Me
+### About Me
 
-- 🤔 My passions revolve around solving problems and exploring new technologies.
-- 👨🏽‍💻 I'm on track for learning more about development, automation, data science, and cloud technologies.
-- 🥅 2024 Goals: Contribute to Open Source projects and enhance my skills in LoRaWAN and warehouse automation.
-- 💬 Brainstorm with me over web development, AI/ML, data structures, algorithms, distributed systems, and automation.
+**Developing VisiARise!**
 
-- 👨‍💻 My Portfolio: [https://dhruv.gwdigital.xyz/](https://dhruv.gwdigital.xyz/)
+VisiARise is a platform where users can visualize products through Augmented Reality (AR). Additionally, it offers free training to students aspiring to land their dream jobs. It’s a challenging project, but I am committed to making it a reality!
 
-- 📫 How to reach me **dhruvchaturvedi999@gmail.com**
+**Who am I?**
+
+I am passionate about exploring various fields, with a strong focus on:
+
+- **Web Development** using the MERN stack
+- **AR Development** through Unity
+- Leading and managing large teams, having successfully led 300+ members
+- **Data Science** and its applications
+- **Cloud Platforms** and their integration
+
+I can independently develop production-ready platforms, with a bit of research and innovation!
+
+**Reach Me:** [dhruvchaturvedi999@gmail.com](mailto:dhruvchaturvedi999@gmail.com)
+
+---
+
+This version has polished grammar, clearer phrasing, and a consistent tone for professional use.
 
 
 ## 🎓 Education:
@@ -22,34 +35,39 @@ _Aug 2021 – Aug 2025_
 
 ## 🛠 Tech Stack
 
-- Languages
+- **Languages**
+  ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)  
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
 
-  ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+- **Frontend**
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-- Frontend
+- **Backend**
+  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
+  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)  
+  ![Python Flask](https://img.shields.io/badge/Python_Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+  ![IBM Cloud](https://img.shields.io/badge/IBM_Cloud-0062FF?style=for-the-badge&logo=ibm&logoColor=white)
 
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- **AR Development**
+  ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)  
+  ![AR Development](https://img.shields.io/badge/AR_Development-FF5C00?style=for-the-badge&logo=unity&logoColor=white)
 
-- Backend
+- **Tools & Frameworks**
+  ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)  
+  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)  
+  ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github)  
 
-  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
-
- 
-
+- **Data Structures & Algorithms (DSA)**
+  ![DSA](https://img.shields.io/badge/DSA-1C1C1C?style=for-the-badge&logo=csharp&logoColor=white)
 
 
-- Tools & Frameworks
-
-  ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github)
 
 ## 📊 GitHub Analytics
 
