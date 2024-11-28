@@ -39,10 +39,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruv9068&show_icons=true&locale=en)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhruv9068&)
-
 ---
 
 ## 🤝🏻 Connect with Me
@@ -66,13 +62,6 @@
 I can independently develop production-ready platforms with a bit of research and innovation!
 
 **Reach Me**: [dhruvchaturvedi999@gmail.com](mailto:dhruvchaturvedi999@gmail.com)
-
----
-
-## 📚 Projects
-1. **VisiARise**: A platform for visualizing home products via AR.
-2. **LeetCode Solutions**: A repository of solutions to my LeetCode challenges in Java and Python.
-3. **DSA with Java & C++**: A beginner-friendly repository for learning data structures and algorithms.
 
 ---
 
