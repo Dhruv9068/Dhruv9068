@@ -162,16 +162,7 @@ I'm a passionate **Web Developer** with expertise in crafting exceptional online
   - Boosted the company's online reach by 50%
 </details>
 
-## 🏆 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/Dhruv9068/VisiARise">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhruv9068&repo=VisiARise&theme=radical" />
-  </a>
-  <a href="https://github.com/Dhruv9068/Pathrify">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhruv9068&repo=Pathrify&theme=radical" />
-  </a>
-</div>
 
 ### 🔮 VisiARise – Immersive AR Experiences Platform
 <img align="right" width="300" src="/placeholder.svg?height=180&width=300&query=AR VR platform visualization" style="border-radius: 10px; margin-left: 10px;" />
