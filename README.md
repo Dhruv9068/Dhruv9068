@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://camo.githubusercontent.com/514f682a0b43a9422eee5d9e1d81ef2b7c866247575a96f1080913870d87f0e9/68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3032382f3130322f3035382f6f726967696e616c2f706978656c2d6a6566662d6d61747269782d732e6769663f31353933343837323633" width="100%" alt="Banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a1c71,50:d76d77,100:ffaf7b&height=200&section=header&text=Want%20to%20know%20more%20about%20me%3F&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=A%20Developer%20by%20passion!&descAlignY=50&descSize=20" width="100%" alt="Banner">
 </div>
 
 <p align="center">
@@ -23,23 +23,32 @@
 
 <br>
 
-<img src="https://img.freepik.com/premium-photo/late-night-coder_107062-27161.jpg" width="300px" align="right" alt="Coder" style="border-radius: 10px; margin-left: 15px;">
-
-## 💫 About Me
-
-I'm a passionate **Web Developer** with expertise in crafting exceptional online experiences through the design and development of visually appealing, responsive websites. I'm the **Founder and CEO of VisiARise**, an innovative AR/VR platform revolutionizing e-commerce and home design visualization.
-
-- 🔭 I'm currently working on **VisiARise** - an immersive AR experiences platform
-- 🌱 I'm currently learning advanced **AR/VR technologies** and **AI integration**
-- 👯 I'm looking to collaborate on **innovative web and AR/VR projects**
-- 💬 Ask me about **Web Development**, **AR/VR**, and **UI/UX Design**
-- ⚡ Fun fact: I'm a tech enthusiast who loves creating educational tech videos!
+<div class="container">
+  <div class="row">
+    <div class="column">
+      <h2>💫 About Me</h2>
+      <p>
+        I'm a passionate <b>Web Developer</b> with expertise in crafting exceptional online experiences through the design and development of visually appealing, responsive websites. I'm the <b>Founder and CEO of VisiARise</b>, an innovative AR/VR platform revolutionizing e-commerce and home design visualization.
+      </p>
+      <ul>
+        <li>🔭 I'm currently working on <b>VisiARise</b> - an immersive AR experiences platform</li>
+        <li>🌱 I'm currently learning advanced <b>AR/VR technologies</b> and <b>AI integration</b></li>
+        <li>👯 I'm looking to collaborate on <b>innovative web and AR/VR projects</b></li>
+        <li>💬 Ask me about <b>Web Development</b>, <b>AR/VR</b>, and <b>UI/UX Design</b></li>
+        <li>⚡ Fun fact: I'm a tech enthusiast who loves creating educational tech videos!</li>
+      </ul>
+    </div>
+    <div class="column">
+      <img src="https://img.freepik.com/premium-photo/late-night-coder_107062-27161.jpg" width="300px" align="right" alt="Coder" style="border-radius: 10px; margin-left: 15px;">
+    </div>
+  </div>
+</div>
 
 <br>
 
-## 🛠️ Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
 
-<table>
+<table align="center">
   <tr>
     <td>
       <h3 align="center">Frontend</h3>
@@ -86,19 +95,19 @@ I'm a passionate **Web Developer** with expertise in crafting exceptional online
 
 <br>
 
-## 💼 Professional Journey
+<h2 align="center">💼 Professional Journey</h2>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" />
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="250" />
 </div>
 
 <div align="center">
   <table>
     <tr>
-      <td align="center">
+      <td align="center" width="20%">
         <img src="https://img.shields.io/badge/2024-Present-FF5722?style=for-the-badge" alt="Timeline"/>
       </td>
-      <td>
+      <td width="80%">
         <h3>🚀 VisiARise</h3>
         <p><b>Founder | CEO</b></p>
         <ul>
@@ -130,10 +139,10 @@ I'm a passionate **Web Developer** with expertise in crafting exceptional online
   <div align="center">
     <table>
       <tr>
-        <td align="center">
+        <td align="center" width="20%">
           <img src="https://img.shields.io/badge/2024-2024-8BC34A?style=for-the-badge" alt="Timeline"/>
         </td>
-        <td>
+        <td width="80%">
           <h3>🌐 Edunet Foundation</h3>
           <p><b>AI and Cloud Intern</b></p>
           <ul>
@@ -177,7 +186,7 @@ I'm a passionate **Web Developer** with expertise in crafting exceptional online
 
 <br>
 
-## 🏆 Featured Projects
+<h2 align="center">🏆 Featured Projects</h2>
 
 <div align="center">
   <table>
@@ -296,17 +305,17 @@ I'm a passionate **Web Developer** with expertise in crafting exceptional online
 
 <br>
 
-## 🎓 Education
+<h2 align="center">🎓 Education</h2>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dUCCvAVVZC1Mc/giphy.gif" width="500" height="200" />
+  <img src="https://media.giphy.com/media/dUCCvAVVZC1Mc/giphy.gif" width="400" height="180" />
   <h3>GL Bajaj Group Of Institutions, Mathura, Uttar Pradesh</h3>
   <p><b>Bachelor of Technology in Computer Science Engineering</b> <i>(Aug 2021 – Aug 2025)</i></p>
 </div>
 
 <br>
 
-## 🎯 Hobbies & Interests
+<h2 align="center">🎯 Hobbies & Interests</h2>
 
 <div align="center">
   <table>
@@ -347,7 +356,7 @@ I'm a passionate **Web Developer** with expertise in crafting exceptional online
 
 <br>
 
-## 📫 Connect With Me
+<h2 align="center">📫 Connect With Me</h2>
 
 <div align="center">
   <a href="https://linkedin.com/in/dhruvinsights/">
@@ -361,12 +370,14 @@ I'm a passionate **Web Developer** with expertise in crafting exceptional online
   </a>
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
-</div>
+<br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Dhruv9068&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views">
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a1c71,50:d76d77,100:ffaf7b&height=100&section=footer&animation=twinkling"/>
 </div>
 
 <h4 align="center">✨ Thanks for visiting my profile! ✨</h4>
