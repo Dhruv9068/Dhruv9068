@@ -214,7 +214,7 @@
 
 <br>
 
-<h2 align="center">🏆 Featured Projects</h2>
+<h2 align="center">🏆 Projects</h2>
 
 <div align="center">
   <table>
@@ -222,17 +222,9 @@
       <td width="50%">
         <h3 align="center">VisiARise</h3>
         <div align="center">
-          <a href="https://github.com/Dhruv9068/VisiARise" target="_blank">
+          <a href="https://visiarise.com" target="_blank">
             <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-74AqAksYGD2TU9Z4Y1qikfKyE9jPv2.png" width="100%" alt="VisiARise Project"/>
           </a>
-          <p>
-            <a href="https://github.com/Dhruv9068/VisiARise" target="_blank">
-              <img src="https://img.shields.io/badge/Code-00B0FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
-            </a>
-            <a href="#" target="_blank">
-              <img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
-            </a>
-          </p>
           <p><strong>Three.js, GSAP, Firebase, Python Flask, Redux, Web AR, A-Frame</strong> - An immersive AR experiences platform revolutionizing e-commerce and home design visualization.</p>
         </div>
       </td>
@@ -242,14 +234,6 @@
           <a href="https://github.com/Dhruv9068/Pathrify" target="_blank">
             <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-fvLv40Mz3Lt32HYZRbGT2i8NX6ZK7l.png" width="100%" alt="Pathrify Project"/>
           </a>
-          <p>
-            <a href="https://github.com/Dhruv9068/Pathrify" target="_blank">
-              <img src="https://img.shields.io/badge/Code-00B0FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
-            </a>
-            <a href="#" target="_blank">
-              <img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
-            </a>
-          </p>
           <p><strong>Next.js, TypeScript, Supabase, OpenAI API, LLM Fine-Tuning</strong> - AI-powered career mentor generating personalized roadmaps in real time.</p>
         </div>
       </td>
@@ -261,32 +245,76 @@
           <a href="https://github.com/Dhruv9068/Shrimad" target="_blank">
             <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-7Bb8we1OSaTsIEcQlVCz1kd9FxnF5g.png" width="100%" alt="Shrimad Project"/>
           </a>
-          <p>
-            <a href="https://github.com/Dhruv9068/Shrimad" target="_blank">
-              <img src="https://img.shields.io/badge/Code-00B0FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
-            </a>
-            <a href="#" target="_blank">
-              <img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
-            </a>
-          </p>
           <p><strong>Next.js, React, TypeScript, Tailwind CSS, Three.js, GSAP, OpenAI GPT-3.5 Turbo</strong> - AI-driven spiritual chatbot for Shrimad Bhagwat Gita readers.</p>
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">Portfolio Website</h3>
+        <h3 align="center">ShiftFlow</h3>
         <div align="center">
-          <a href="https://github.com/Dhruv9068/portfolio" target="_blank">
-            <img src="https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif" width="100%" alt="Portfolio Project"/>
+          <a href="https://shiftfl0w.web.app/" target="_blank">
+            <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-ObrN5wZHlZvJsj3yXrlXLyRbaaRA67.png" width="100%" alt="ShiftFlow"/>
           </a>
-          <p>
-            <a href="https://github.com/Dhruv9068/portfolio" target="_blank">
-              <img src="https://img.shields.io/badge/Code-00B0FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
-            </a>
-            <a href="#" target="_blank">
-              <img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
-            </a>
-          </p>
-          <p><strong>React.js, Framer Motion, Tailwind CSS, Three.js, EmailJS</strong> - Personal portfolio website with smooth animations and 3D elements.</p>
+          <p><strong>React, Tailwind CSS, Firebase</strong> - Workflow visualization and validation platform with intuitive interface.</p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Detectly</h3>
+        <div align="center">
+          <a href="https://detectly.netlify.app/" target="_blank">
+            <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-eNWG5F8Dzjq67hzY9V73vWTBR5EELl.png" width="100%" alt="Detectly Project"/>
+          </a>
+          <p><strong>TensorFlow.js, React.js, Tailwind CSS</strong> - Object detection application using TensorFlow.js and React.js with an intuitive user interface.</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">AcoNews</h3>
+        <div align="center">
+          <a href="https://aconewsweb.netlify.app/" target="_blank">
+            <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-PVi7ebFUmdG3vnogJphFP3tvKvbl50.png" width="100%" alt="AcoNews Project"/>
+          </a>
+          <p><strong>React, Tailwind CSS, News API, Netlify</strong> - Responsive news platform that fetches and displays real-time news using a third-party API.</p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Centrifugal Casting</h3>
+        <div align="center">
+          <a href="https://centrifugalcasting.netlify.app/" target="_blank">
+            <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-9sH9y5RkODWkwFI6s4nufTcrSwBMip.png" width="100%" alt="Centrifugal Casting Website"/>
+          </a>
+          <p><strong>Next.js, Tailwind CSS, GSAP, Framer Motion, Python Flask</strong> - Enhanced company website with smooth animations and chatbot functionality.</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">Maths Anime Insights</h3>
+        <div align="center">
+          <a href="https://mathsanimeinsights.vercel.app/" target="_blank">
+            <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-5V3RnUlbu2v2HXiloqh27cHBxJXQmz.png" width="100%" alt="Maths Anime Insights"/>
+          </a>
+          <p><strong>Next.js, Canvas API, Animation Libraries</strong> - Educational website showcasing mathematical formulas through interactive animations.</p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Car AR Experience</h3>
+        <div align="center">
+          <a href="https://cararv.netlify.app/" target="_blank">
+            <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-aZNK6vyL9cPbWa0t3QkeQcjkNnfbsj.png" width="100%" alt="Car AR Experience"/>
+          </a>
+          <p><strong>React.js, Model-Viewer, WebXR</strong> - AR experience allowing users to view a 3D car model in their environment.</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">Raj Palace Website</h3>
+        <div align="center">
+          <a href="#" target="_blank">
+            <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-DdBe458IbQNB0nNTrSaCgNrpcEH7vG.png" width="100%" alt="Raj Palace Website"/>
+          </a>
+          <p><strong>React.js, Tailwind CSS, GSAP, Framer Motion</strong> - Enhanced version of rajapalace.in with beautiful animations and booking system integration.</p>
         </div>
       </td>
     </tr>
@@ -296,86 +324,6 @@
 <div align="center">
   <p><i>⭐ If you want to see all my projects, some may not be publicly visible - please connect with me directly! ⭐</i></p>
 </div>
-
-<br>
-
-<details>
-  <summary><b>🔍 View More Projects</b></summary>
-  <div align="center">
-    <table>
-      <tr>
-        <td width="50%">
-          <h3 align="center">E-Commerce Mobile App</h3>
-          <div align="center">
-            <a href="#" target="_blank">
-              <img src="https://media.giphy.com/media/3o7TKTDn976rzVgky4/giphy.gif" width="100%" alt="E-Commerce App"/>
-            </a>
-            <p>
-              <a href="#" target="_blank">
-                <img src="https://img.shields.io/badge/Code-00B0FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
-              </a>
-            </p>
-            <p><strong>React Native, Redux, Firebase, Stripe API</strong> - Cross-platform mobile app for an e-commerce business with secure payment integration.</p>
-          </div>
-        </td>
-        <td width="50%">
-          <h3 align="center">Unity AR Game</h3>
-          <div align="center">
-            <a href="#" target="_blank">
-              <img src="https://media.giphy.com/media/l378zKVk7Eh3yHoJi/giphy.gif" width="100%" alt="AR Game"/>
-            </a>
-            <p>
-              <a href="#" target="_blank">
-                <img src="https://img.shields.io/badge/Code-00B0FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
-              </a>
-            </p>
-            <p><strong>Unity, C#, ARCore, Blender</strong> - Augmented reality game that interacts with the physical environment.</p>
-          </div>
-        </td>
-      </tr>
-      <tr>
-  <td width="50%">
-    <h3 align="center">Raj Palace Website</h3>
-    <div align="center">
-      <a href="#" target="_blank">
-        <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-DdBe458IbQNB0nNTrSaCgNrpcEH7vG.png" width="100%" alt="Raj Palace Website"/>
-      </a>
-      <p><strong>React, Tailwind CSS, GSAP, Framer Motion, API Integration</strong> - Enhanced version of rajapalace.in with beautiful animations and booking system integration.</p>
-    </div>
-  </td>
-  <td width="50%">
-    <h3 align="center">Maths Anime Insights</h3>
-    <div align="center">
-      <a href="https://mathsanimeinsights.vercel.app/" target="_blank">
-        <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-5V3RnUlbu2v2HXiloqh27cHBxJXQmz.png" width="100%" alt="Maths Anime Insights"/>
-      </a>
-      <p><strong>Next.js, Tailwind CSS, Animation Libraries</strong> - Interactive website showcasing mathematical formulas and patterns through beautiful animations.</p>
-    </div>
-  </td>
-</tr>
-<tr>
-  <td width="50%">
-    <h3 align="center">ShiftFlow</h3>
-    <div align="center">
-      <a href="https://shiftfl0w.web.app/" target="_blank">
-        <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-ObrN5wZHlZvJsj3yXrlXLyRbaaRA67.png" width="100%" alt="ShiftFlow"/>
-      </a>
-      <p><strong>React, Tailwind CSS, Firebase</strong> - Workflow visualization and validation platform with intuitive interface.</p>
-    </div>
-  </td>
-  <td width="50%">
-    <h3 align="center">Car AR Experience</h3>
-    <div align="center">
-      <a href="https://cararv.netlify.app/" target="_blank">
-        <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-aZNK6vyL9cPbWa0t3QkeQcjkNnfbsj.png" width="100%" alt="Car AR Experience"/>
-      </a>
-      <p><strong>React, Model-Viewer, AR.js</strong> - Web AR experience allowing users to view and interact with 3D car models in augmented reality.</p>
-    </div>
-  </td>
-</tr>
-    </table>
-  </div>
-</details>
 
 <br>
 
