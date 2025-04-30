@@ -1,254 +1,182 @@
-<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 1200px; margin: 0 auto; padding: 20px;">
+<div align="center">
+  <img src="https://camo.githubusercontent.com/514f682a0b43a9422eee5d9e1d81ef2b7c866247575a96f1080913870d87f0e9/68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3032382f3130322f3035382f6f726967696e616c2f706978656c2d6a6566662d6d61747269782d732e6769663f31353933343837323633" width="100%" alt="Banner">
+</div>
+
+<h1 align="center">
+  <img src="https://media3.giphy.com/media/LyV4cw0vDtAgc8xTHQ/200w.gif?cid=6c09b9522jnmtac7gict5jv3a9ng8jmbbiphiyu8oobq3st1&ep=v1_gifs_search&rid=200w.gif&ct=g" width="30px" height="30px">
+  Hi there, I'm <span style="color:#FF5733;">Dhruv Chaturvedi</span>
+  <img src="https://media3.giphy.com/media/LyV4cw0vDtAgc8xTHQ/200w.gif?cid=6c09b9522jnmtac7gict5jv3a9ng8jmbbiphiyu8oobq3st1&ep=v1_gifs_search&rid=200w.gif&ct=g" width="30px" height="30px">
+</h1>
+
+<div align="center">
+  <img src="https://img.freepik.com/premium-photo/late-night-coder_107062-27161.jpg" width="400px" alt="Coder" style="border-radius: 10px;">
+</div>
+
+<h3 align="center" style="color:#4CAF50;">Web Developer | AR/VR Enthusiast | Founder of VisiARise</h3>
+
+<div align="center">
+  <a href="https://linkedin.com/in/dhruvinsights/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:dhruvchaturvedi999@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/Dhruv9068">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="tel:+919068539812">
+    <img src="https://img.shields.io/badge/Phone-4285F4?style=for-the-badge&logo=google-voice&logoColor=white" alt="Phone">
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://media4.giphy.com/media/78XCFBGOlS6keY1Bil/200w.gif?cid=6c09b952hy43bgjl7jk8yh0qxx9hvg95ud84e8ag9mnn9p88&ep=v1_gifs_search&rid=200w.gif&ct=g" width="200px" alt="Coding GIF">
+</div>
+
+## <span style="color:#9C27B0;">👨‍💻 About Me</span>
+
+I'm a passionate **Web Developer** with expertise in crafting exceptional online experiences through the design and development of visually appealing, responsive websites. I'm the **Founder and CEO of VisiARise**, an innovative AR/VR platform revolutionizing e-commerce and home design visualization.
+
+- 🔭 I'm currently working on **VisiARise** - an immersive AR experiences platform
+- 🌱 I'm currently learning advanced **AR/VR technologies** and **AI integration**
+- 👯 I'm looking to collaborate on **innovative web and AR/VR projects**
+- 💬 Ask me about **Web Development**, **AR/VR**, and **UI/UX Design**
+- ⚡ Fun fact: I'm a tech enthusiast who loves creating educational tech videos!
+
+## <span style="color:#FF9800;">🚀 Technical Skills</span>
+
+<div align="center">
+
+### <span style="color:#2196F3;">Frontend Development</span>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### <span style="color:#4CAF50;">Backend Development</span>
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### <span style="color:#F44336;">Databases & State Management</span>
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white)
+
+### <span style="color:#9C27B0;">AR/VR & Design</span>
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![WebXR](https://img.shields.io/badge/WebXR-FF5733?style=for-the-badge&logo=webxr&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+### <span style="color:#3F51B5;">Tools & Platforms</span>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
+
+</div>
+
+## <span style="color:#E91E63;">💼 Work Experience</span>
+
+### <span style="color:#FF5722;">VisiARise</span>
+**Founder | CEO** *(Nov 2024 - Present)*
+- Conceptualized and built an innovative AR/VR platform for e-commerce and home design
+- Leading a team of 12 skilled developers
+- Pre-launch valuation exceeding 600+, with over 600 users awaiting the platform's debut
+
+### <span style="color:#00BCD4;">GAOTek Inc.</span>
+**Web Development Intern | Generative AI Intern | Digital Marketing Intern** *(April 2024 - July 2024)*
+- Led the creation of interactive web applications using modern frameworks
+- Coordinated with a diverse team of over 300 professionals
+- Implemented data-driven marketing campaigns
+
+### <span style="color:#8BC34A;">Edunet Foundation</span>
+**AI and Cloud Intern** *(Feb 2024 - Mar 2024)*
+- Collaborated on real-world solutions leveraging AI techniques and IBM Cloud infrastructure
+
+### <span style="color:#FFEB3B;">Other Experience</span>
+- **YBI Foundation**: Python and Data Structures Intern *(Aug 2023 - Oct 2023)*
+- **Bharat Intern**: Project Intern *(Aug 2023 - Sep 2023)*
+- **Acmegrade**: Front-end Web Developer Intern *(May 2023 - July 2023)*
+- **Tree to Table Private Limited**: Front-end Web Developer *(August 2023 - October 2023)*
+
+## <span style="color:#3F51B5;">🏆 Projects</span>
+
+### <span style="color:#FF9800;">VisiARise – Immersive AR Experiences Platform</span>
+*Tailwind CSS, GSAP, Three.js, Firebase, Python Flask, Redux, Web AR, A-Frame, SEO, Custom Chatbot, API*
+- Led a 2-person team to build a company website showcasing AR experiences
+- Architected a modular system with Python Flask backend and Firebase real-time database
+- Created seamless GSAP & Three.js animations plus 360° virtual environments
+
+### <span style="color:#4CAF50;">Pathrify – AI-Powered Career Mentor</span>
+*Next.js, TypeScript, Supabase, OpenAI API, LLM Fine-Tuning*
+- Built a Next.js + TypeScript frontend with SSR for SEO-friendly career-mentoring pages
+- Fine-tuned an OpenAI LLM (4.0 API) to generate personalized roadmaps in real time
+- Implemented Supabase PostgreSQL and Realtime for user profiles and live updates
+
+### <span style="color:#2196F3;">Shrimad – AI-Driven Spiritual Chatbot</span>
+*Next.js, React, TypeScript, Tailwind CSS, Three.js, GSAP, OpenAI GPT-3.5 Turbo*
+- Developed a chatbot for Shrimad Bhagwat Gita readers with GPT-3.5 Turbo fine-tuned on 700 verses
+- Designed a responsive reading layout in Tailwind CSS, pairing each śloka with AI commentary
+- Added immersive animations using GSAP & Three.js and a built-in thematic music player
+
+## <span style="color:#673AB7;">🎓 Education</span>
+
+### <span style="color:#00BCD4;">GL Bajaj Group Of Institutions, Mathura, Uttar Pradesh</span>
+**Bachelor of Technology in Computer Science Engineering** *(Aug 2021 – Aug 2025)*
+
+## <span style="color:#FF5722;">🎯 Hobbies</span>
+
+- **Tech Enthusiast**: Exploring emerging technologies like AR, VR, and AI
+- **Content Creation**: Making educational tech videos, including DSA tutorials and AR vs. VR comparisons
+- **Competitive Programming**: Solving algorithm challenges on LeetCode and HackerRank
+- **Gaming and 3D Design**: Experimenting with Unity and Three.js for game development and 3D design
+- **Travel and Exploration**: Discovering new places and cultures for fresh perspectives
+
+## <span style="color:#4CAF50;">📊 GitHub Stats</span>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhruv9068&show_icons=true&theme=radical" alt="GitHub Stats" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv9068&layout=compact&theme=radical" alt="Top Languages" height="170">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruv9068&theme=radical" alt="GitHub Streak">
+</div>
+
+## <span style="color:#9C27B0;">📫 Connect With Me</span>
+
+<div align="center">
   
-  <!-- HEADER WITH ANIMATED TYPING EFFECT -->
-  <div style="background: linear-gradient(135deg, #6e48aa 0%, #9d50bb 100%); padding: 30px; border-radius: 15px; box-shadow: 0 10px 20px rgba(0,0,0,0.2); margin-bottom: 30px;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&lines=Dhruv+Chaturvedi;Full-Stack+Developer;AR%2FVR+Innovator;Tech+Entrepreneur" alt="Animated Typing Text" />
-    <div style="display: flex; justify-content: center; gap: 15px; margin-top: 20px;">
-      <a href="tel:+919068539812" style="background: #25D366; color: white; padding: 10px 15px; border-radius: 50px; text-decoration: none; display: flex; align-items: center; gap: 5px;">
-        <img src="https://img.icons8.com/ios-filled/50/000000/phone.png" width="20" height="20"/> +91 90685 39812
-      </a>
-      <a href="mailto:dhruvchaturvedi999@gmail.com" style="background: #EA4335; color: white; padding: 10px 15px; border-radius: 50px; text-decoration: none; display: flex; align-items: center; gap: 5px;">
-        <img src="https://img.icons8.com/ios-filled/50/000000/gmail.png" width="20" height="20"/> Email
-      </a>
-      <a href="https://linkedin.com/in/dhruvinsights/" style="background: #0A66C2; color: white; padding: 10px 15px; border-radius: 50px; text-decoration: none; display: flex; align-items: center; gap: 5px;">
-        <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" width="20" height="20"/> LinkedIn
-      </a>
-    </div>
-  </div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruvinsights/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruvchaturvedi999@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhruv9068)
+[![Phone](https://img.shields.io/badge/Phone-4285F4?style=for-the-badge&logo=google-voice&logoColor=white)](tel:+919068539812)
 
-  <!-- MAIN CONTENT GRID (3 COLUMNS) -->
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 25px;">
+</div>
 
-    <!-- LEFT COLUMN -->
-    <div style="display: flex; flex-direction: column; gap: 25px;">
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dhruv9068&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views">
+</div>
 
-      <!-- PROFESSIONAL SUMMARY -->
-      <div style="background: linear-gradient(135deg, #4776E6 0%, #8E54E9 100%); padding: 25px; border-radius: 15px; box-shadow: 0 5px 15px rgba(0,0,0,0.1); color: white;">
-        <h2 style="margin-top: 0; border-bottom: 2px solid rgba(255,255,255,0.3); padding-bottom: 10px;">🌟 Professional Summary</h2>
-        <p style="line-height: 1.6;">Web Developer passionate about crafting exceptional online experiences through the design and development of visually appealing, responsive websites. Proven collaborator with diverse teams to deliver successful projects. Adaptable to emerging technologies and industry trends.</p>
-      </div>
-
-      <!-- EDUCATION -->
-      <div style="background: white; padding: 25px; border-radius: 15px; box-shadow: 0 5px 15px rgba(0,0,0,0.1); border-left: 5px solid #6a11cb;">
-        <h2 style="margin-top: 0; color: #333;">🎓 Education</h2>
-        <div style="margin-top: 15px;">
-          <h3 style="margin-bottom: 5px; color: #444;">GL Bajaj Group Of Institutions, Mathura</h3>
-          <p style="margin: 0; color: #666; font-weight: 500;">Bachelor of Technology in Computer Science Engineering</p>
-          <p style="margin: 5px 0 0; color: #888; font-size: 0.9em;">Aug 2021 – Aug 2025</p>
-        </div>
-      </div>
-
-      <!-- TECHNICAL SKILLS -->
-      <div style="background: white; padding: 25px; border-radius: 15px; box-shadow: 0 5px 15px rgba(0,0,0,0.1);">
-        <h2 style="margin-top: 0; color: #333;">🛠 Technical Skills</h2>
-        
-        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin-top: 15px;">
-          
-          <!-- FRONTEND -->
-          <div style="background: #f8f9fa; padding: 15px; border-radius: 10px; border-left: 3px solid #4e44ce;">
-            <h3 style="margin-top: 0; font-size: 1em; color: #4e44ce;">Front-End</h3>
-            <ul style="margin: 10px 0 0; padding-left: 20px; font-size: 0.9em;">
-              <li>React.js, Next.js</li>
-              <li>TypeScript, JavaScript</li>
-              <li>Tailwind CSS</li>
-              <li>WebXR, Three.js</li>
-              <li>Figma, Framer</li>
-            </ul>
-          </div>
-          
-          <!-- BACKEND -->
-          <div style="background: #f8f9fa; padding: 15px; border-radius: 10px; border-left: 3px solid #e44d26;">
-            <h3 style="margin-top: 0; font-size: 1em; color: #e44d26;">Back-End</h3>
-            <ul style="margin: 10px 0 0; padding-left: 20px; font-size: 0.9em;">
-              <li>Node.js, FastAPI</li>
-              <li>Python, Java</li>
-              <li>MongoDB, Firebase</li>
-              <li>Supabase, MySQL</li>
-              <li>Docker, Linux</li>
-            </ul>
-          </div>
-          
-          <!-- AR/VR -->
-          <div style="background: #f8f9fa; padding: 15px; border-radius: 10px; border-left: 3px solid #6a11cb;">
-            <h3 style="margin-top: 0; font-size: 1em; color: #6a11cb;">AR/VR</h3>
-            <ul style="margin: 10px 0 0; padding-left: 20px; font-size: 0.9em;">
-              <li>Unity (ARCore)</li>
-              <li>WebXR</li>
-              <li>Three.js</li>
-              <li>Blender</li>
-              <li>AR Foundation</li>
-            </ul>
-          </div>
-          
-          <!-- TOOLS -->
-          <div style="background: #f8f9fa; padding: 15px; border-radius: 10px; border-left: 3px solid #0077b5;">
-            <h3 style="margin-top: 0; font-size: 1em; color: #0077b5;">Tools</h3>
-            <ul style="margin: 10px 0 0; padding-left: 20px; font-size: 0.9em;">
-              <li>Git, GitHub</li>
-              <li>VS Code</li>
-              <li>Figma, Adobe CC</li>
-              <li>Postman</li>
-              <li>Docker</li>
-            </ul>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <!-- MIDDLE COLUMN -->
-    <div style="display: flex; flex-direction: column; gap: 25px;">
-
-      <!-- WORK EXPERIENCE -->
-      <div style="background: white; padding: 25px; border-radius: 15px; box-shadow: 0 5px 15px rgba(0,0,0,0.1);">
-        <h2 style="margin-top: 0; color: #333;">💼 Work Experience</h2>
-        
-        <!-- VisiARise -->
-        <div style="margin-top: 15px; padding-bottom: 15px; border-bottom: 1px solid #eee;">
-          <div style="display: flex; justify-content: space-between;">
-            <h3 style="margin: 0; color: #444; font-size: 1.1em;">Founder & CEO | VisiARise</h3>
-            <span style="background: #6a11cb; color: white; padding: 3px 8px; border-radius: 50px; font-size: 0.8em;">Nov 2024 - Present</span>
-          </div>
-          <p style="margin: 5px 0 10px; color: #666; font-size: 0.9em;">Uttar Pradesh, India</p>
-          <ul style="margin: 0; padding-left: 20px; font-size: 0.9em;">
-            <li>Built AR/VR platform revolutionizing e-commerce and home design visualization</li>
-            <li>Leading team of 12 developers with 600+ pre-launch users</li>
-            <li>Achieved pre-launch valuation exceeding 600+</li>
-          </ul>
-        </div>
-        
-        <!-- GAOTek -->
-        <div style="margin-top: 15px; padding-bottom: 15px; border-bottom: 1px solid #eee;">
-          <div style="display: flex; justify-content: space-between;">
-            <h3 style="margin: 0; color: #444; font-size: 1.1em;">Web Dev Intern | GAOTek</h3>
-            <span style="background: #4e44ce; color: white; padding: 3px 8px; border-radius: 50px; font-size: 0.8em;">Apr 2024 - Jul 2024</span>
-          </div>
-          <p style="margin: 5px 0 10px; color: #666; font-size: 0.9em;">Toronto, Canada (Remote)</p>
-          <ul style="margin: 0; padding-left: 20px; font-size: 0.9em;">
-            <li>Created interactive web apps improving engagement by 10%</li>
-            <li>Coordinated with 300+ professionals globally</li>
-            <li>Implemented data-driven marketing campaigns</li>
-          </ul>
-        </div>
-        
-        <!-- Edunet Foundation -->
-        <div style="margin-top: 15px;">
-          <div style="display: flex; justify-content: space-between;">
-            <h3 style="margin: 0; color: #444; font-size: 1.1em;">AI & Cloud Intern | Edunet</h3>
-            <span style="background: #e44d26; color: white; padding: 3px 8px; border-radius: 50px; font-size: 0.8em;">Feb 2024 - Mar 2024</span>
-          </div>
-          <p style="margin: 5px 0 10px; color: #666; font-size: 0.9em;">India (Remote)</p>
-          <ul style="margin: 0; padding-left: 20px; font-size: 0.9em;">
-            <li>Developed AI solutions using IBM Cloud</li>
-            <li>Analyzed industry use cases for tech improvements</li>
-            <li>Strengthened project outcomes with innovative approaches</li>
-          </ul>
-        </div>
-      </div>
-
-      <!-- PROJECTS -->
-      <div style="background: white; padding: 25px; border-radius: 15px; box-shadow: 0 5px 15px rgba(0,0,0,0.1);">
-        <h2 style="margin-top: 0; color: #333;">🚀 Projects</h2>
-        
-        <!-- VisiARise Project -->
-        <div style="margin-top: 15px; background: linear-gradient(to right, #f5f7fa 0%, #f8f9fa 100%); padding: 15px; border-radius: 10px; border-left: 4px solid #6a11cb;">
-          <h3 style="margin: 0 0 10px; color: #444; font-size: 1.1em;">VisiARise Platform</h3>
-          <p style="margin: 0 0 10px; color: #666; font-size: 0.9em;">MERN, Firebase, Unity, WebXR, Three.js | Aug 2024 - Oct 2024</p>
-          <ul style="margin: 0; padding-left: 20px; font-size: 0.9em;">
-            <li>Platform for creating immersive AR experiences with 40% better cross-platform compatibility</li>
-            <li>Integrated Three.js and GSAP for fluid animations</li>
-            <li>ML algorithms increased user retention by 25%</li>
-          </ul>
-          <div style="margin-top: 10px; display: flex; gap: 10px; flex-wrap: wrap;">
-            <span style="background: #6a11cb; color: white; padding: 3px 10px; border-radius: 50px; font-size: 0.7em;">React</span>
-            <span style="background: #6a11cb; color: white; padding: 3px 10px; border-radius: 50px; font-size: 0.7em;">Unity</span>
-            <span style="background: #6a11cb; color: white; padding: 3px 10px; border-radius: 50px; font-size: 0.7em;">Three.js</span>
-            <span style="background: #6a11cb; color: white; padding: 3px 10px; border-radius: 50px; font-size: 0.7em;">ML</span>
-          </div>
-        </div>
-        
-        <!-- Shift Flow Project -->
-        <div style="margin-top: 15px; background: linear-gradient(to right, #f5f7fa 0%, #f8f9fa 100%); padding: 15px; border-radius: 10px; border-left: 4px solid #4e44ce;">
-          <h3 style="margin: 0 0 10px; color: #444; font-size: 1.1em;">Shift Flow</h3>
-          <p style="margin: 0 0 10px; color: #666; font-size: 0.9em;">React, FastAPI, Firebase | Oct 2024 - Nov 2024</p>
-          <ul style="margin: 0; padding-left: 20px; font-size: 0.9em;">
-            <li>Business pipeline visualizer with DAG validation</li>
-            <li>Reduced error rates by 30% with advanced node positioning</li>
-            <li>Improved platform efficiency by 50%</li>
-          </ul>
-          <div style="margin-top: 10px; display: flex; gap: 10px; flex-wrap: wrap;">
-            <span style="background: #4e44ce; color: white; padding: 3px 10px; border-radius: 50px; font-size: 0.7em;">React</span>
-            <span style="background: #4e44ce; color: white; padding: 3px 10px; border-radius: 50px; font-size: 0.7em;">Python</span>
-            <span style="background: #4e44ce; color: white; padding: 3px 10px; border-radius: 50px; font-size: 0.7em;">Firebase</span>
-            <span style="background: #4e44ce; color: white; padding: 3px 10px; border-radius: 50px; font-size: 0.7em;">DAG</span>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <!-- RIGHT COLUMN -->
-    <div style="display: flex; flex-direction: column; gap: 25px;">
-
-      <!-- GITHUB STATS -->
-      <div style="background: white; padding: 25px; border-radius: 15px; box-shadow: 0 5px 15px rgba(0,0,0,0.1);">
-        <h2 style="margin-top: 0; color: #333;">📊 GitHub Stats</h2>
-        <div style="display: flex; flex-direction: column; gap: 15px; margin-top: 15px;">
-          <img src="https://github-readme-stats.vercel.app/api?username=Dhruv9068&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 100%; border-radius: 10px;">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruv9068&theme=radical" alt="GitHub Streak" style="width: 100%; border-radius: 10px;">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv9068&layout=compact&theme=radical" alt="Top Languages" style="width: 100%; border-radius: 10px;">
-        </div>
-      </div>
-
-      <!-- HOBBIES -->
-      <div style="background: linear-gradient(135deg, #00b09b 0%, #96c93d 100%); padding: 25px; border-radius: 15px; box-shadow: 0 5px 15px rgba(0,0,0,0.1); color: white;">
-        <h2 style="margin-top: 0; border-bottom: 2px solid rgba(255,255,255,0.3); padding-bottom: 10px;">🎯 Hobbies & Interests</h2>
-        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin-top: 15px;">
-          <div style="background: rgba(255,255,255,0.15); padding: 10px; border-radius: 8px;">
-            <h3 style="margin: 0 0 5px; font-size: 1em;">Tech Exploration</h3>
-            <p style="margin: 0; font-size: 0.9em;">AR/VR, AI, 3D Design</p>
-          </div>
-          <div style="background: rgba(255,255,255,0.15); padding: 10px; border-radius: 8px;">
-            <h3 style="margin: 0 0 5px; font-size: 1em;">Content Creation</h3>
-            <p style="margin: 0; font-size: 0.9em;">Tech tutorials, DSA videos</p>
-          </div>
-          <div style="background: rgba(255,255,255,0.15); padding: 10px; border-radius: 8px;">
-            <h3 style="margin: 0 0 5px; font-size: 1em;">Competitive Coding</h3>
-            <p style="margin: 0; font-size: 0.9em;">LeetCode, HackerRank</p>
-          </div>
-          <div style="background: rgba(255,255,255,0.15); padding: 10px; border-radius: 8px;">
-            <h3 style="margin: 0 0 5px; font-size: 1em;">Gaming & Design</h3>
-            <p style="margin: 0; font-size: 0.9em;">Unity, Three.js</p>
-          </div>
-        </div>
-      </div>
-
-      <!-- SPECIALIZED SKILLS -->
-      <div style="background: white; padding: 25px; border-radius: 15px; box-shadow: 0 5px 15px rgba(0,0,0,0.1);">
-        <h2 style="margin-top: 0; color: #333;">✨ Specialized Skills</h2>
-        <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 15px;">
-          <span style="background: #f0f8ff; color: #0066cc; padding: 5px 10px; border-radius: 50px; font-size: 0.8em; border: 1px solid #0066cc;">Prompt Engineering</span>
-          <span style="background: #fff0f0; color: #cc0000; padding: 5px 10px; border-radius: 50px; font-size: 0.8em; border: 1px solid #cc0000;">Team Leadership</span>
-          <span style="background: #f0fff0; color: #00aa00; padding: 5px 10px; border-radius: 50px; font-size: 0.8em; border: 1px solid #00aa00;">Project Management</span>
-          <span style="background: #fff8f0; color: #ff6600; padding: 5px 10px; border-radius: 50px; font-size: 0.8em; border: 1px solid #ff6600;">Software Architecture</span>
-          <span style="background: #f8f0ff; color: #6600cc; padding: 5px 10px; border-radius: 50px; font-size: 0.8em; border: 1px solid #6600cc;">AR/VR Development</span>
-          <span style="background: #f0f0ff; color: #0000cc; padding: 5px 10px; border-radius: 50px; font-size: 0.8em; border: 1px solid #0000cc;">UI/UX Design</span>
-        </div>
-      </div>
-
-      <!-- CONTACT CTA -->
-      <div style="background: linear-gradient(135deg, #ff758c 0%, #ff7eb3 100%); padding: 25px; border-radius: 15px; box-shadow: 0 5px 15px rgba(0,0,0,0.1); color: white; text-align: center;">
-        <h2 style="margin-top: 0;">📬 Let's Connect!</h2>
-        <p style="margin-bottom: 20px;">Open to collaborations in AR/VR, AI, and Web Development</p>
-        <a href="mailto:dhruvchaturvedi999@gmail.com" style="background: white; color: #ff758c; padding: 10px 20px; border-radius: 50px; text-decoration: none; font-weight: bold; display: inline-block;">Get In Touch</a>
-      </div>
-    </div>
-  </div>
-
-  <!-- FOOTER -->
-  <div style="margin-top: 30px; text-align: center; color: #666; font-size: 0.9em;">
-    <p>Made with ❤️ by Dhruv Chaturvedi | Last Updated: June 2024</p>
-    <div style="display: flex; justify-content: center; gap: 15px; margin-top: 10px;">
-      <img src="https://komarev.com/ghpvc/?username=Dhruv9068&label=Profile+Views&color=blueviolet" alt="Profile Views" />
-      <img src="https://img.shields.io/github/followers/Dhruv9068?label=Follow&style=social" alt="GitHub Followers" />
-    </div>
-  </div>
+<div align="center">
+  <img src="https://media4.giphy.com/media/78XCFBGOlS6keY1Bil/200w.gif?cid=6c09b952hy43bgjl7jk8yh0qxx9hvg95ud84e8ag9mnn9p88&ep=v1_gifs_search&rid=200w.gif&ct=g" width="100px" alt="Coding GIF">
+  <h3>Thanks for visiting my profile! 😊</h3>
 </div>
