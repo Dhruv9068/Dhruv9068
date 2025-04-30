@@ -1,68 +1,123 @@
-# Dhruv Chaturvedi
+# **Dhruv Chaturvedi**  
+**Full-Stack Developer | AR/VR Enthusiast | Tech Innovator**  
 
-### Hi! I'm Dhruv Chaturvedi  
-**Passionate Developer | AR Enthusiast | Tech Innovator**
+📞 **+91 90685 39812** | 📧 **dhruvchaturvedi999@gmail.com**  
+🔗 [LinkedIn](https://linkedin.com/in/dhruvinsights/) | 💻 [GitHub](https://github.com/Dhruv9068)  
+
+---  
+
+<div class="masonry-layout" style="column-count: 3; gap: 1.5rem;">  
+
+### **🚀 Professional Summary**  
+Passionate **Web & AR/VR Developer** with expertise in **Frontend, Backend, and Emerging Tech**. Proven leader in **startups & remote teams**, delivering high-impact projects with **600+ pre-launch users**. Adept at **Agile, AI, and 3D design**, constantly pushing boundaries in **immersive tech**.  
+
+---  
+
+### **🎓 Education**  
+**GL Bajaj Group of Institutions, Mathura**  
+📜 **B.Tech in Computer Science** (2021–2025)  
+🔹 Specialized in **AI, Cloud, and AR Development**  
+🔹 Active in **Competitive Programming & Hackathons**  
+
+---  
+
+### **💻 Technical Skills**  
+#### **Frontend**  
+- **React.js, Next.js, TypeScript**  
+- **Tailwind CSS, Framer Motion**  
+- **WebXR, Three.js, Figma**  
+
+#### **Backend**  
+- **Node.js, FastAPI, Flask**  
+- **MongoDB, Firebase, Supabase**  
+- **Python, Java, C#**  
+
+#### **AI & Emerging Tech**  
+- **Unity (ARCore), WebXR**  
+- **Prompt Engineering (10+ Tools)**  
+- **Generative AI, IBM Cloud**  
+
+---  
+
+### **💼 Work Experience**  
+#### **🚀 Founder & CEO @ [VisiARise](https://visiarise.com)** *(Nov 2024 – Present)*  
+- Built **AR/VR e-commerce platform** from scratch.  
+- Led **12+ devs**, achieved **600+ pre-launch users**.  
+- **600K+ valuation** before official launch.  
+
+#### **🌐 Web Dev & AI Intern @ GAOTek Inc.** *(Remote, Apr–Jul 2024)*  
+- Boosted **engagement by 10%** via interactive web apps.  
+- Worked with **300+ global professionals**.  
+
+#### **☁️ AI & Cloud Intern @ Edunet Foundation** *(Remote, Feb–Mar 2024)*  
+- Developed **AI solutions on IBM Cloud**.  
+- Optimized **real-world industry use cases**.  
+
+*(More roles in GitHub README details...)*  
+
+---  
+
+### **🏆 Projects & Achievements**  
+🔹 **AR E-Commerce Platform** – Built with **Unity & WebXR**  
+🔹 **Generative AI Tools** – Enhanced **marketing automation**  
+🔹 **LeetCode 100+** – Top **10% in DSA**  
+
+---  
+
+### **🎨 Hobbies & Interests**  
+- **3D Design (Unity, Three.js)**  
+- **Tech Content Creation (YouTube, Blogs)**  
+- **Competitive Programming (LeetCode Expert)**  
+- **Travel & Cultural Exploration**  
+
+</div>  
+
+---  
+
+### **📌 GitHub Stats & Highlights**  
+![GitHub Streak](https://streak-stats.demolab.com?user=Dhruv9068&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv9068&layout=compact&theme=radical)  
+
+---  
+
+### **📬 Let’s Connect!**  
+🔹 **Open to Collaborations** in **AR/VR, AI, and Web Dev**  
+🔹 **Freelance Projects?** DM me on [LinkedIn](https://linkedin.com/in/dhruvinsights/)  
+🔹 **Portfolio:** *(Coming Soon!)*  
+
+⭐ **Star my repos if you find them useful!**  
+
+---  
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=Dhruv9068&label=Profile%20Views&color=blueviolet" alt="Dhruv9068" /> 
+</p>  
+
+</div>  
 
 ---
 
-## 🎓 Education
-**GL Bajaj Group Of Institutions**, Mathura, Uttar Pradesh  
-**Bachelor of Technology in Computer Science Engineering**  
-*Aug 2021 – Aug 2025*
 
----
+```css
+.masonry-layout {
+  column-count: 3;
+  column-gap: 1.5rem;
+}
+.masonry-layout > div {
+  break-inside: avoid;
+  margin-bottom: 1.5rem;
+}
+@media (max-width: 768px) {
+  .masonry-layout { column-count: 2; }
+}
+@media (max-width: 480px) {
+  .masonry-layout { column-count: 1; }
+}
+```  
 
-## 🛠 Tech Stack
+---  
 
-### Languages
-- ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)
-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-- ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+✅ **SEO Optimized** | ✅ **Mobile-Friendly** | ✅ **Aesthetic & Professional**  
 
-### Frontend
-- ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-- ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+🌟 **Crafted with ❤️ by [Dhruv Chaturvedi](https://github.com/Dhruv9068)**  
 
-### Backend
-- ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-- ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-- ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
-- ![IBM Cloud](https://img.shields.io/badge/IBM_Cloud-0062FF?style=flat&logo=ibm&logoColor=white)
-
-### AR Development
-- ![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)
-- ![AR Development](https://img.shields.io/badge/AR_Development-FF5C00?style=flat&logo=unity&logoColor=white)
-
----
-
----
-
-## 🤝🏻 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruvinsights)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:dhruvchaturvedi999@gmail.com)
-[![HackerRank](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg)](https://www.hackerrank.com/@dhruvchaturvedi4)
-[![LeetCode](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg)](https://www.leetcode.com/dhruv_chaturvedi)
-
----
-
-## About Me
-
-**VisiARise** is a platform I am developing, where users can visualize products through Augmented Reality (AR). Additionally, it offers free training to students aspiring to land their dream jobs. It’s a challenging project, but I am committed to making it a reality!
-
-- **Web Development** using the MERN stack
-- **AR Development** through Unity
-- Leading and managing large teams, having successfully led 300+ members
-- **Data Science** and its applications
-- **Cloud Platforms** and their integration
-
-I can independently develop production-ready platforms with a bit of research and innovation!
-
-**Reach Me**: [dhruvchaturvedi999@gmail.com](mailto:dhruvchaturvedi999@gmail.com)
-
----
-
-### Thank you for visiting my portfolio! 🚀
