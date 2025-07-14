@@ -168,20 +168,6 @@
       </tr>
       <tr>
         <td align="center">
-          <img src="https://img.shields.io/badge/2023-2023-9C27B0?style=for-the-badge" alt="Timeline"/>
-        </td>
-        <td>
-          <h3>🖥️ Bharat Intern, India, Remote</h3>
-          <p><b>Project Intern</b> <i>(Aug 2023 – Sep 2023)</i></p>
-          <ul>
-            <li>Produced user-friendly web applications tailored to client specifications.</li>
-            <li>Applied creative solutions to improve website accessibility and responsiveness.</li>
-            <li>Collaborated with peers to streamline code reviews and quality assurance processes.</li>
-          </ul>
-        </td>
-      </tr>
-      <tr>
-        <td align="center">
           <img src="https://img.shields.io/badge/2023-2023-FF9800?style=for-the-badge" alt="Timeline"/>
         </td>
         <td>
@@ -200,7 +186,7 @@
         </td>
         <td>
           <h3>🌱 Tree to Table Private Limited, Uttar Pradesh, India, Remote</h3>
-          <p><b>Front-end Web Developer</b> <i>(August 2023 — October 2023)</i></p>
+          <p><b>Front-end Web Developer</b> <i>(Decemeber 2020 — December 2022)</i></p>
           <ul>
             <li>Developed a fully responsive website using React.js and Tailwind CSS, optimized for faster loading speeds.</li>
             <li>Designed and implemented the complete UI, including all custom graphics and visual elements.</li>
