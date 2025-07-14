@@ -201,68 +201,9 @@
 <br>
 
 <h2 align="center">🏆 Projects</h2>
+
 <div align="center">
   <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Samadhan AI</h3>
-        <div align="center">
-          <a href="https://samadhan-ai.netlify.app/" target="_blank">
-            <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-L97rfdgEhU54W3lzUGS3ykKaMyzEaY.png" width="100%" alt="Samadhan AI Project"/>
-          </a>
-          <p><strong>AI-powered Platform</strong> - An AI-powered platform that listens to citizens in their own language — and turns complaints into action.</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">SchemeGenie</h3>
-        <div align="center">
-          <a href="https://schemegenie.netlify.app/" target="_blank">
-            <img src="/placeholder.svg?height=300&width=500" width="100%" alt="SchemeGenie Project"/>
-          </a>
-          <p><strong>AI-powered Assistant</strong> - An AI-powered assistant that helps users find and apply for government and organizational benefit schemes. It offers personalized recommendations, multilingual support, and automated form filling, making access to benefits simple, fast, and error-free for everyone.</p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">CardVerse</h3>
-        <div align="center">
-          <a href="https://card-verse.netlify.app/" target="_blank">
-            <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-m2UtTu1o6FbgdQUHdH30ZautAzg2Qp.png" width="100%" alt="CardVerse Project"/>
-          </a>
-          <p><strong>Next.js, Responsive Design</strong> - An interactive card-based knowledge platform that allows users to explore, collect, and organize information cards across various categories. Offers a unique way to discover and interact with content.</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">Mind Bloom</h3>
-        <div align="center">
-          <a href="https://dashboardsmartcity.vercel.app/" target="_blank">
-            <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-I6byeC9wQfAMXF4qdkzHAkPArwGsGf.png" width="100%" alt="Mind Bloom Project"/>
-          </a>
-          <p><strong>Digital Mental Health Platform</strong> - A digital mental health and wellness platform designed for patients to manage and track their mental health through a comprehensive, user-friendly dashboard.</p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Smart City Dashboard</h3>
-        <div align="center">
-          <a href="https://dashboardsmartcity.vercel.app/" target="_blank">
-            <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-xRnUok3RUh0KFP5L65cZ5v3NOKhBd4.png" width="100%" alt="Smart City Dashboard Project"/>
-          </a>
-          <p><strong>Real-time Urban Monitoring</strong> - A real-time urban monitoring platform designed to provide city administrators, planners, and citizens with a comprehensive view of a city’s key metrics and services.</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">Resume Builder</h3>
-        <div align="center">
-          <a href="https://resumeandportfoliobuilder.vercel.app/" target="_blank">
-            <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-5SWC37QrXclUPu6o9JMFXcPlpKlCnS.png" width="100%" alt="Resume Builder Project"/>
-          </a>
-          <p><strong>Online Resume Platform</strong> - An online platform that helps users create professional, polished resumes quickly and easily, offering pre-designed templates, drag-and-drop sections, and guided prompts for key details.</p>
-        </div>
-      </td>
-    </tr>
     <tr>
       <td width="50%">
         <h3 align="center">VisiARise</h3>
@@ -317,7 +258,7 @@
         <h3 align="center">AcoNews</h3>
         <div align="center">
           <a href="https://aconewsweb.netlify.app/" target="_blank">
-            <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-PVi7ebFUmdG3zNogJphFP3tvKvbl50.png" width="100%" alt="AcoNews Project"/>
+            <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-PVi7ebFUmdG3vnogJphFP3tvKvbl50.png" width="100%" alt="AcoNews Project"/>
           </a>
           <p><strong>React, Tailwind CSS, News API, Netlify</strong> - Responsive news platform that fetches and displays real-time news using a third-party API.</p>
         </div>
@@ -365,11 +306,10 @@
     </tr>
   </table>
 </div>
+
 <div align="center">
   <p><i>⭐ If you want to see all my projects, some may not be publicly visible - please connect with me directly! ⭐</i></p>
 </div>
-```
-
 
 <br>
 
