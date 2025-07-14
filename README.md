@@ -281,7 +281,7 @@
         <h3 align="center">GameVault</h3>
         <div align="center">
           <a href="https://gamevaultofficial.netlify.app/" target="_blank">
-            <img src="/placeholder.svg?height=300&width=500" width="100%" alt="GameVault Project"/>
+            <img src="[/placeholder.svg?height=300&width=500" width="100%" alt="GameVault Project](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-5r7LU4m73Dj7Ubi1DIRkigxBvWFfrq.png)"/>
           </a>
           <p><strong>2D Games Platform</strong> - Unlock the ultimate gaming experience with premium 2D games, stunning visuals, and challenging gameplay. Play instantly, anywhere.</p>
         </div>
