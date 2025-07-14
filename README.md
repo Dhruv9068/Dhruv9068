@@ -230,7 +230,7 @@
         <h3 align="center">SchemeGenie</h3>
         <div align="center">
           <a href="https://schemegenie.netlify.app/" target="_blank">
-            <img src="/placeholder.svg?height=300&width=500" width="100%" alt="SchemeGenie Project"/>
+            <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-J5CwHDR42mWM5qZfFIIJteCn72KNzN.png" width="100%" alt="SchemeGenie Project"/>
           </a>
           <p><strong>AI-powered Assistant</strong> - An AI-powered assistant that helps users find and apply for government and organizational benefit schemes. It offers personalized recommendations, multilingual support, and automated form filling, making access to benefits simple, fast, and error-free for everyone.</p>
         </div>
@@ -266,7 +266,68 @@
         </div>
       </td>
     </tr>
+
+  <tr>
+      <td width="50%">
+        <h3 align="center">Jeevan OS</h3>
+        <div align="center">
+          <a href="https://jeevanos.netlify.app/" target="_blank">
+            <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-3vffopLX0GlVqlbFRB8NwFel0jxrXb.png" width="100%" alt="Jeevan OS Project"/>
+          </a>
+          <p><strong>Digital Life OS, AI Assistants</strong> - A futuristic digital life operating system that transforms your browser into a complete productivity workspace with 10 specialized AI assistants.</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">GameVault</h3>
+        <div align="center">
+          <a href="https://gamevaultofficial.netlify.app/" target="_blank">
+            <img src="/placeholder.svg?height=300&width=500" width="100%" alt="GameVault Project"/>
+          </a>
+          <p><strong>2D Games Platform</strong> - Unlock the ultimate gaming experience with premium 2D games, stunning visuals, and challenging gameplay. Play instantly, anywhere.</p>
+        </div>
+      </td>
+    </tr>
     <tr>
+      <td width="50%">
+        <h3 align="center">ItineraFlow</h3>
+        <div align="center">
+          <a href="https://itineraflow.vercel.app/" target="_blank">
+            <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-VxvTKqSDKQ3SiyKdH6cdO2f8L0JYpA.png" width="100%" alt="ItineraFlow Project"/>
+          </a>
+          <p><strong>Interactive 3D Travel Planner</strong> - An interactive 3D travel planner that lets users explore global destinations in a visually immersive way, helping craft personalized adventures beyond boundaries.</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">HackNHost</h3>
+        <div align="center">
+          <a href="https://hacknhost.vercel.app/" target="_blank">
+            <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-4qKXNc5lPSYDG785mRvByg2llFupQ4.png" width="100%" alt="HackNHost Project"/>
+          </a>
+          <p><strong>Immersive 3D Event Management</strong> - An immersive 3D event management platform where users can organize, host, and explore events in a virtual reality environment with voice control and AI assistants.</p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">3D Car Racing Game</h3>
+        <div align="center">
+          <a href="https://threedtrack.vercel.app/" target="_blank">
+            <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-TpYrIMyeX7fApixzeHrH31oXPdXvhi.png" width="100%" alt="3D Car Racing Game Project"/>
+          </a>
+          <p><strong>React Three Fiber, Realistic Physics</strong> - A 3D racing game with a complex track, realistic car physics, and a lush green environment built using React Three Fiber (Three.js for React).</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">SkillSync</h3>
+        <div align="center">
+          <a href="https://skillsyncofficial.vercel.app/" target="_blank">
+            <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-Lr5UGz6pHM39X1EF8biDwxHCFUiVzz.png" width="100%" alt="SkillSync Project"/>
+          </a>
+          <p><strong>Skill-Sharing Platform</strong> - Connects people who want to learn with those who want to teach, fostering knowledge exchange, community building, and new ability development through collaborative skill-sharing.</p>
+        </div>
+      </td>
+  </tr>
+  <tr>
       <td width="50%">
         <h3 align="center">Smart City Dashboard</h3>
         <div align="center">
