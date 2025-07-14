@@ -382,7 +382,7 @@
         <h3 align="center">AcoNews</h3>
         <div align="center">
           <a href="https://aconewsweb.netlify.app/" target="_blank">
-            <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-PVi7ebFUmdG3vnogJphFP3tvKvbl50.png" width="100%" alt="AcoNews Project"/>
+            <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-PVi7ebFUmdG3vnogJphFP3tvKvbl50.png" width="70%" alt="AcoNews Project"/>
           </a>
           <p><strong>React, Tailwind CSS, News API, Netlify</strong> - Responsive news platform that fetches and displays real-time news using a third-party API.</p>
         </div>
